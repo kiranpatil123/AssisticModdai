@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-hello welcome to github
+hello buddy
 </body>
 </html>
